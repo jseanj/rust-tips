@@ -4,4 +4,5 @@
 
 | Title |
 |-|
-| [Alloc Struct on heap](./posts/alloc-struct-on-heap.md) |
+| [alloc struct on heap](./posts/alloc-struct-on-heap.md) |
+| [convert string to &str](./posts/convert-string-to-str.md) |
